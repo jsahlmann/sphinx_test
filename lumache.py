@@ -1,5 +1,7 @@
 """
 Lumache - Python library for cooks and food lovers.
+
+Test: JSA 03.11.2024
 """
 
 __version__ = "0.1.0"
