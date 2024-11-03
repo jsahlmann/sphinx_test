@@ -11,7 +11,8 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development (Test JSA, 03.11.2024)
+
 
 Contents
 --------
